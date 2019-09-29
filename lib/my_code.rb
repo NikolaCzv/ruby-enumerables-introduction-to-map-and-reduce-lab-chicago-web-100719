@@ -43,6 +43,8 @@ end
 
 def reduce_to_total(source_array, starting_point = 0)
 new = starting_point
+i = 0 
+while 
 
 
 
