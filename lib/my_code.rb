@@ -51,7 +51,8 @@ end
 return new
 end
 
-
+def reduce_to_all(source_array)
+  new = []
 
 
 
