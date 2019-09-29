@@ -7,3 +7,5 @@ while i < source_array.length do
 end
 return new 
 end
+
+def map_to_no_change()
