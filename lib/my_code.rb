@@ -58,7 +58,8 @@ while i < source_array.length do
   return false if !source_array[i]
   i += 1 
 end
-return new 
+return true 
+end
 
 
 
